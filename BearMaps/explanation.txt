@@ -1,0 +1,5 @@
+To be completely honest this project, especially part 3, was way harder than I expected it to be.
+I'm not a CS major or even minor and the highest math I've taken is 16a/b. I decided to take 61a/b
+so that I could learn fundamentals of coding. This project is likely my last and it has definitely
+pushed the limits of what I thought I could ever personally accomplish. I probably spent minimum 50-60
+hours on this.
